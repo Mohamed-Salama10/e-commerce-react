@@ -1,0 +1,23 @@
+.items-row::after {
+    content: '';
+    width: 90%;
+    height: 1px;
+    border-bottom:1px solid  black;
+    margin: auto ;
+
+}
+
+.lower-line::after {
+    content: '';
+    width: 90%;
+    height: 1px;
+    border-bottom:1px solid  black;
+    margin: auto ;
+
+}
+
+.remove-class:hover i {
+    color: red ;
+
+
+}

@@ -1,0 +1,8 @@
+.status-msg {
+  z-index: 9999;
+  transform:translateX(50%) ;
+  -webkit-transform:translateX(50%) ;
+  -moz-transform:translateX(50%) ;
+  -ms-transform:translateX(50%) ;
+  -o-transform:translateX(50%) ;
+}
