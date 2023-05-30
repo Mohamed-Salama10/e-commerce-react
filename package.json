@@ -2,7 +2,7 @@
   "name": "ecommerance",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Mohamed-Salama10.github.io/e-commerce-react",
+  "homepage": "https://Mohamed-Salama10.github.com/e-commerce-react",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
